@@ -13,3 +13,5 @@ Clone this repo onto your computer if you have git installed. If not, sign into 
 
 Challenge:
 
+Create a function that will take an amount (in cents) and an array of US currency values (also in cents) and return the number of ways you can use those coins to make change for that amount
+
